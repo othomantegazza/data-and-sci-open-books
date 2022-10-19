@@ -14,8 +14,10 @@ These are the books that I use as a daily reference. They are all openly accessi
 
 ## Python
 
-- [The Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-- [A Whirlwind Introduction to Python](https://jakevdp.github.io/WhirlwindTourOfPython/)
+- [The Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/), foundation of python for data science, by Jake VanderPlas.
+- [A Whirlwind Introduction to Python](https://jakevdp.github.io/WhirlwindTourOfPython/), a fast paced introduction to python, by Jake VanderPlas.
+- [Python for Data Analysis](https://wesmckinney.com/book/), the basics of data analysis in Python, with numpy and pandas, by Wes McKinney.
+- [Visualization Curriculum](https://uwdata.github.io/visualization-curriculum/altair_marks_encoding.html) Data Visualization with Python, through Vega-Lite and Altair. Available also for [javascript](https://observablehq.com/@uwdata/data-visualization-curriculum). 
 
 ## Git / Github
 
