@@ -11,6 +11,7 @@ These are the books that I use as a daily reference. They are all openly accessi
 - [Introduction to Statistical Learning](https://www.statlearning.com)  - A detailed introductio  to modern statistical methods, implemented in R.
 - [Text Mining in R](https://www.tidytextmining.com/index.html) Analyzing natural language and written text in R.
 - [Tidy Modeling with R](https://www.tmwr.org/) R's machine learning framework.
+- [Analising Data Using Linear Models](https://bookdown.org/pingapang9/linear_models_bookdown/), for students in social, behavioural and management science, by Stéphanie M. van den Berg.
 
 ## Python
 
