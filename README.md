@@ -1,4 +1,4 @@
-# Books
+# Great Books About Data Analysis
 
 These are the books that I use as a daily reference. They are all openly accessible.
 
