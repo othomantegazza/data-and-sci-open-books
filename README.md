@@ -38,6 +38,10 @@ These are the books that I use as a daily reference. They are all openly accessi
 
 - [Dashboards with R + Docker + Github Actions](https://github.com/RamiKrispin/deploy-flex-actions) by Rami Krispin, head of data science at Apple.
 
+## Computer Science
+
+- [Missing Semester](https://missing.csail.mit.edu/) A generic intro to basic CS productivity tips and tools, by Anish Athalye.
+
 ## More Books at Bookdown
 
 - Check out the [bookdown](https://bookdown.org/home/) repository for many more
