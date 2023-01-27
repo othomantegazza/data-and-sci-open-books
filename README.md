@@ -33,6 +33,7 @@ These are the books that I use as a daily reference. They are all openly accessi
 ## Dataviz Design
 
 - [Data Visualization - A practical introduction](https://socviz.co/index.html#preface) Visualize data in R, by Kieran Healy.
+- [Scientific Color Palettes 🎨](https://www.fabiocrameri.ch/colourmaps/) Perceptually uniform colors, for scientific data visualization, by Fabio Crameri.
 
 ## Dashboards
 
