@@ -34,6 +34,7 @@ These are the books that I use as a daily reference. They are all openly accessi
 
 - [Data Visualization - A practical introduction](https://socviz.co/index.html#preface) Visualize data in R, by Kieran Healy.
 - [Scientific Color Palettes 🎨](https://www.fabiocrameri.ch/colourmaps/) Perceptually uniform colors, for scientific data visualization, by Fabio Crameri.
+  -[Scico](https://github.com/thomasp85/scico), a port to ggplot2 of Fabio Crameri's color palettes, by Thomas Lin Pedersen.
 
 ## Dashboards
 
