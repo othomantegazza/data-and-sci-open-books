@@ -20,6 +20,10 @@ These are the books that I use as a daily reference. They are all openly accessi
 - [Python for Data Analysis](https://wesmckinney.com/book/), the basics of data analysis in Python, with numpy and pandas, by Wes McKinney.
 - [Visualization Curriculum](https://uwdata.github.io/visualization-curriculum/altair_marks_encoding.html) Data Visualization with Python, through Vega-Lite and Altair. Available also for [javascript](https://observablehq.com/@uwdata/data-visualization-curriculum), by Jeffrey Heer, Dominik Moritz, Jake VanderPlas, and Brock Craft. 
 
+## Javascript
+
+- [Javascript for Data Science](https://third-bit.com/js4ds/) an introduction to modern Javascript by Maya Gans, Toby Hodges, and Greg Wilson.
+
 ## Git / Github
 
 - [Happy Git and Github for useR](https://happygitwithr.com/index.html) by Jenny Brian and Jim Hester.
