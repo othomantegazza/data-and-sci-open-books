@@ -23,6 +23,7 @@ These are the books that I use as a daily reference. They are all openly accessi
 ## Javascript
 
 - [Javascript for Data Science](https://third-bit.com/js4ds/) an introduction to modern Javascript by Maya Gans, Toby Hodges, and Greg Wilson.
+- [D3 in Depth](https://www.d3indepth.com/), visualize data on the web with D3, by Peter Cook.
 
 ## Git / Github
 
