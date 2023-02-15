@@ -15,6 +15,7 @@ These are the books that I use as a daily reference. They are all openly accessi
 
 ## Python
 
+- [Think Python 2e](https://greenteapress.com/wp/think-python-2e/) Learn how to think as a computr scientist with python, by Allen B. Downey.
 - [The Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/), foundation of python for data science, by Jake VanderPlas.
 - [A Whirlwind Introduction to Python](https://jakevdp.github.io/WhirlwindTourOfPython/), a fast paced introduction to python, by Jake VanderPlas.
 - [Python for Data Analysis](https://wesmckinney.com/book/), the basics of data analysis in Python, with numpy and pandas, by Wes McKinney.
