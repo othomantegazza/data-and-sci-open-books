@@ -50,6 +50,13 @@ These are the books that I use as a daily reference. They are all openly accessi
 
 - [Missing Semester](https://missing.csail.mit.edu/) A generic intro to basic CS productivity tips and tools, by Anish Athalye.
 
+## Bayesian Statistics in R and Python
+
+- A 10 minutes [introduction to Bayesian statistics in R](https://m-clark.github.io/workshops/bayesian/01_intro.html#introduction) by Michael Clark.
+- [An introduction to Bayesian Thinking](https://statswithr.github.io/book/) by Merlise Clyde et al.
+- [Think Bayes](https://allendowney.github.io/ThinkBayes2/index.html), an introduction to bayesian statistics in Python by Allen B. Downey.
+- [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/) by Andrew Gelman et al.
+
 ## More Books at Bookdown
 
 - Check out the [bookdown](https://bookdown.org/home/) repository for many more
