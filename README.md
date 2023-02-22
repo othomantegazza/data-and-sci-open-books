@@ -1,6 +1,6 @@
 # Great Books About Data Analysis
 
-These are the books that I use as a daily reference. They are all openly accessible.
+These are the textbooks that I love and that I use as a daily reference. They are all openly accessible.
 
 ## R
 
@@ -59,4 +59,8 @@ These are the books that I use as a daily reference. They are all openly accessi
 
 ## More Books at Bookdown
 
-- Check out the [bookdown](https://bookdown.org/home/) repository for many more
+- Check out the [bookdown](https://bookdown.org/home/) repository for many more.
+
+## Authors
+
+Support the authors of these textbooks with the means that are available to you, they are heroes.
