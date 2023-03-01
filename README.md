@@ -57,6 +57,10 @@ These are the textbooks that I love and that I use as a daily reference. They ar
 - [Think Bayes](https://allendowney.github.io/ThinkBayes2/index.html), an introduction to bayesian statistics in Python by Allen B. Downey.
 - [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/) by Andrew Gelman et al.
 
+## Geocomputation
+
+- [Geocomputation with R](https://r.geocompx.org/index.html); a book on geographic data analysis, visualization and modeling by Robin Lovelace, Jakub Nowosad and Jannes Muenchow.
+
 ## More Books at Bookdown
 
 - Check out the [bookdown](https://bookdown.org/home/) repository for many more.
