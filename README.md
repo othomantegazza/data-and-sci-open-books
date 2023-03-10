@@ -60,6 +60,7 @@ These are the textbooks that I love and that I use as a daily reference. They ar
 ## Geocomputation
 
 - [Geocomputation with R](https://r.geocompx.org/index.html); a book on geographic data analysis, visualization and modeling by Robin Lovelace, Jakub Nowosad and Jannes Muenchow.
+- [Spatial Data Science](https://r-spatial.org/book/); concepts, packages and models for spatial data science in R, by Edzer Pebesma, Roger Bivand.
 
 ## More Books at Bookdown
 
