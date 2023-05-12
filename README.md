@@ -42,6 +42,9 @@ These are the textbooks that I love and that I use as a daily reference. They ar
 - [Scientific Color Palettes 🎨](https://www.fabiocrameri.ch/colourmaps/) Perceptually uniform colors, for scientific data visualization, by Fabio Crameri.
   - [Scico](https://github.com/thomasp85/scico), Fabio Crameri's color palettes ported to ggplot2, by Thomas Lin Pedersen.
 
+## Typography
+- [Practical Typography](https://practicaltypography.com/) by Matthew Butterick.
+
 ## Dashboards
 
 - [Dashboards with R + Docker + Github Actions](https://github.com/RamiKrispin/deploy-flex-actions) by Rami Krispin, head of data science at Apple.
